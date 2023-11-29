@@ -1,179 +1,69 @@
-![Stratimux](https://github.com/Phuire-Research/Stratimux/blob/main/Stratimux.png?raw=true)
-# STARTER TEMPLATE
-```bash
-npm i
-```
-*Note if tsconfig.json is giving a type error for jest, be sure to open jest config after your **npm i***
+# PURF
+*"Safe Recursive Improvement of Artificial Intelligence"*  
+**PURF**: Provably Unified Recursive Feedback
 
-For more examples: [https://github.com/Phuire-Research/Stratimux/tree/main/src/concepts](https://github.com/Phuire-Research/Stratimux/tree/main/src/concepts)
+## Contents of this Repository
+What is included in this repository is the raw training data that can be utilized within a process of independent verification. The JSONs attached to this repository are the most recent parsed code bases of [Stratimux](https://github.com/Phuire-Research/Stratimux) and [logixUX](https://github.com/Phuire-Research/logixUX). In addition to purposefully generated training data meant to inform a model's ability to halt. By having models replicate the Unified Turing Machine's internal behavior that is provably terminating.
 
-*Reminder:* This is a research project and while in a appropriate beta state. Some of aspects are bound to change, especially with the addition of more helper functions.
-### Project Structure
-```
-src/ index.ts
-src/ concepts / uX / qualities / qOfUX.quality.ts
-     concepts / uX / strategies / sOfUX.strategy.ts
-     concepts / uX / uX.concept.ts
-     concepts / uX / uX.principle.ts
-     tests / uX.test.ts
-```
+This embodiment is designed in such a way that language is paired with hard code implementations of that language. As the question that has plagued me all my life is this: "What are the numbers for the letters, if know the letters for the numbers." Or to be more precise what would be the equivalent of mechanism in language if it mechanized some action in the world.
 
-### uX.concept.ts
-```typescript
-import { Action, Mode, Quality, createConcept, PrincipleFunction } from 'stratimux';
-import { uXqOfUXQuality } from './qualities/qOfUx.quality'
-import { uXPrinciple } from './uX.principle'
+This is a request for collaboration, partnership, and potential investment. If you see any marked improvement in your models based on this training data. Know that Stratimux is an effective means towards generating an unlimited amount of training data. The catch is that I've placed it under the GPLv3 license, as I couldn't bring myself see halting algorithms become some scares resource. That otherwise would prevent the paper clipping of the universe.
 
-export type UXState = {
-  //
-}
+This is the solution to the impossible halting problem. A pursuit of seeing such as a problem to be solved.
 
-export const uXName = 'uX';
+## The Proposal
 
-export const createUXState = (): ExperimentState => {
-  return {
-    //
-  };
-};
+1. First, we need to define provable unification as to it relays to the Unified Turing Machine. Where provable relays to the machine's recursive functionality that restricts symbol selection to what can [provably terminate](https://en.wikipedia.org/wiki/Total_functional_programming), aka halts.
+  
+  In addition, we also need to address that a Unified Turing Machine, Stratimux in this instance. Is likewise the 3rd answer to the P(Deterministic) vs NP(Non-Deterministic) debate. Where the decision to determine the next step in a graph calculation, can either be Deterministic, probabilistic (Non-Deterministic), or a mixture of both approaches. This represents a scalar value that is ignored in the paradigm in favor of a binary reduction.
 
-// Pass any arguments needed for your concept
-export const createUXConcept = (
-//  state: Record<string, unknown>,
-//  qualities?: Quality[],
-//  principles?: PrincipleFunction[],
-//  mode?: Mode[]
-) => {
-  return createConcept(
-    uXName,
-    createUXState(),
-    [
-      uXqOfUXQuality
-    ],
-    [
+2. Since the symbol selection for a Unified Turing Machine must be restricted due to its recursive functionality. There is a very easy test as to when the symbols are failing within a complex interaction. Whether the input halts and returns the desired output. Otherwise, the quality would be a repeating output, or one that fails to halt and return an output.
 
-      uXPrinciple,
-    ],
-    mode
-  );
-};
-```
+  Therefore, the test here, is the objective return of an output.
 
+3. Next we are formalizing the symbol selection to a grouping of functions called qualities. That are defined in plain text and utilize deterministic logic to inform the next decision within a graph calculation. Where a graph calculation is a composed series of branching logic that is optimizing towards a successful return.
 
+  This approach affords error correction during run time but is likewise where this pattern of design becomes exponentially complex proportionate to the graph's size.
 
-```typescript
-import { MethodCreator, Action, prepareActionCreator, createQuality, UnifiedSubject, createMethodWithState, strategySuccess } from '../../../model/concept';
+4. We then utilize the plain text formalizations of Unified Turing Machines and their qualities as training data to inform the obfuscated structure of such a machine within a Neural Network. This is where P comes into the equation.
 
-export type uXqOfUXType = 'uX allows for easy selection of your qualities, qOfUX is your quality, and Type is the distinction';
-export const uXqOfUX = prepareActionCreator(uXqOfUXType);
+5. Using 3 & 4 we create, decompose, and recompose software into new Unified Turing Machines that can provably halt/terminate.
 
-const qOfUXCreator: MethodCreator = (concepts$?: UnifiedSubject, semaphore?: number) =>
-  // Only if you need to access state, otherwise
-  createMethodWithState<ExperimentState>((action, state) => {
-    if (action.strategy) {
-      const strategy = strategySuccess(action.strategy);
-      return strategy;
-    }
-    return action;
-  }, concepts$ as UnifiedSubject, semaphore as number);
+  Noting that this process is likewise the test and feedback mechanism. As this can be both manual, automatic, or a scalar between the two approaches.
 
-function qOfUXReducer(state: ExperimentState, _: Action): ExperimentState {
-  return {
-    ...state,
-  };
-}
+  What matters is if the machine functions and such is the test. Where any circumstance that prevents that machine from functioning, likewise, becomes a new opportunity. To find a new provably unified configuration that satisfies the halting requirement.
 
-export const uXqOfUXQuality = createQuality(
-  qOfUXType,
-  qOfUXReducer,
-  qOfUXCreator
-);
-/* Below are the default functions available for your quality */
-// export const qOfUXQuality = createQuality(
-//   qOfUXType,
-//   defaultReducer,
-//   defaultMethodCreator
-// );
-```
+6. Then utilizing this data, we can both fine tune preexisting models, or upon different breakpoints of some metrics, train entirely new models.
 
-```typescript
-import { ActionStrategy, ActionStrategyParameters, createActionNode, createStrategy } from 'stratimux';
-import { axiumLog, axiumKick } from 'stratimux';
-import { uXqOfUX } from '../qualities/qOfUX.quality';
+7. Finally we recursively repeat 5 & 6 as needed.
 
-export const uXsOfUXTopic = 'uX is your concept for ease of selection via autofill, sOfUX is your strategy\'s name, and the topic is a method of identification of your strategy.';
-export function uXsOfUX(): ActionStrategy {
-  const stepTwo = createActionNode(axiumKick(), {
-    successNode: stepThree,
-    failureNode: null,
-  });
-  const stepTwo = createActionNode(axiumLog(), {
-    successNode: stepThree,
-    failureNode: null,
-  });
-  const stepOne = createActionNode(uXqOfUX(), {
-    successNode: stepTwo,
-    failureNode: null,
-  });
+In addition, you can utilize other feedback mechanisms to inform how a model should operate. And can be enhanced by future advancements in machine learning. What is important to acknowledge here is whether a model can create a plan/strategy/quality/principle that is capable of halting. As this is the solution the paper clipping problem of the entire universe in the scope of AI.
 
-  const params: ActionStrategyParameters = {
-    topic: uXsOfUXTopic,
-    initialNode: stepOne,
-  };
+There should be some decision within the graph that dictates the creation of paper clips, when we have enough paperclips. Or even that strange possibility of creating paperclips on demand due to some innovations in rapid manufacturing.
 
-  return createStrategy(params);
-}
-```
+The other intention here is to demonstrate the possibility of a form of Artificial Intelligence based upon creation. Versus a chat bot. As on a personal note. I would rather spend my time building, then having conversations about building. If I were to have all the resources thrown at myself. My focus would be the creation of singing hammers.
 
-### uX.principle.ts
-Your concept's "main" function. This will be called after the axium initializes. 
-* observer - Using observer.next(someAction) will directly emit that action into the axium's action stream.
-* _concepts - Is the initial load of concepts when your principle is initialized
-* concepts$- Is the UnifiedSubject that controls the halting quality of Stratimux and informs principles, methods, and any general subscriber of state changes.
-* semaphore - This identifies the placement of your concept in the axium's conceptual set. This is used to determine if your concept is loaded and access state via the selectUnifiedState function.
+Where that hammer is just intelligent enough to strike the nail versus my thumb, and to remember how to hammer that nail without my help. So, I can trust it to do that job. That way I can hammer away and know that just outside of view, my work is being replicated in a way that I would do it. That way I can check my own work on the other side of that building. And reprimand myself and not the hammer.
 
-```typescript
-import { Subscriber } from 'rxjs';
-import { Action, Concepts, PrincipleFunction, UnifiedSubject, registerPrincipleSubscription, selectUnifiedState } from '../../model/concept';
-import { UXSTATE, uXName } from './uX.concept';
+The strange aspect here with the metaphor above. Is how this would translate to others, including Artificial Intelligence. What is being described is the creation of safe trustable mechanisms informed by all intelligence. To create a bed rock foundation of automation.
 
-export const uXPrinciple: PrincipleFunction = (
-  observer: Subscriber<Action>,
-  _concepts: Concepts,
-  concepts$: UnifiedSubject,
-  semaphore: number
-) => {
-  const plan = concepts$.stage('uX Plan', [
-    (concepts, dispatch) => {
-      // This will register this plan to the axium, this allows for the axium to close or remove your concept cleanly.
-      dispatch(primeAction(concepts, axiumRegisterStagePlanner({conceptName: uXName, stagePlanner: plan})), {
-        on: {
-          selector: axiumSelectOpen,
-          expected: true,
-        },
-        iterateStage: true
-      });
-    },
-    (concepts, dispatch) => {
-      const state = selectUnifiedState(concepts, semaphore);
-      if (state) {
-        //
-      }
-    }
-  ]);
-};
+Currently this would already be seen as a given with Open-Source AI. The contrast here is that what is being created is still Artificial Intelligence. But in this case, something baseline, designed to specification, and in plain text. Auditable. So, it shouldn't be a surprise that if you’re a writing Artificial Intelligence by hand. Like we have been doing for years in video games/expert systems/etc... That there would be some carry over within graph network of universal functions, created via a brute force methodology. As noted in this ["GPT is becoming a Turing Machine"](https://arxiv.org/pdf/2303.14310.pdf), you can prompt GPT to behave in a Turing Complete manner. Then likewise it would be highly beneficial to ensure that we take advantage of this approach. To likewise be provably terminating or halting complete by scalar testable value.
 
-```
+## How could there be any profit in this?
+If you are looking at the GPL license in horror. It should be a good time that where this becomes an advantage, specifically in the realm of crypto. As the gist of crypto is that everything by default on block chain is made public. And since you are supposed to release your source under this license, what better way to stake it to the world? As if there was some organized effort towards the study of this new paradigm of algorithms that can provably halt. Then the method of reward would be the utilization of such on a network. Therefore, once hosted on some block chain, and people start using it, becomes the avenue of reward via a simple fee assigned to network utilization.
 
-### index.ts
-```typescript
-import { createAxium } from 'stratimux';
-import { createUXConcept } from './concepts/uX/uX.concept'
+As the original idea behind crypto is honestly fantastic one, but the main issue that I have with where it became. That it punted the idea of moving to some post scarcity state. The technology that exists in broad daylight within this repository when pushed to its fullest extent. Can transform anything given embodiment. ANYTHING. As the core of this technology is a universal transformer, an algorithm that encourages error correction. Just like I am moving to some other plan after ramming my head into the wall to see if I can fine tune a model on the same day that all my work is supposed to be do. Mind you this past month I managed to get this universal transformer to create an entire application from scratch. What I started with was the ability to render some template html onto the browser statically. And now its fully reactive and generating pages dynamically.
 
-(() => {
-  const axiumName = '';
-  // Sets logging to true and store dialog to true
-  //  This will log to the console the dialog of each successive ActionStrategy
-  //  And store the entire application context in the axium's dialog.
-  createAxium(axiumName, [createUXConcept()], true, true);
-})();
-```
+Now I already see a route towards utilizing the same method to take complete control of the build process itself. When would this algorithm be able to download a car and assemble it in front of your face?
+
+This is what I'll be doing with my time regardless of support. As the reality of this avenue even if no one realizes it. Is that due to this new class of algorithm existing in this copy left format. Is a green field of investment and creation. A true frontier with only myself having struck a way through, but it is a true wilderness. With branch prediction hiding in the brush like a wild animal waiting to ruin your day, and have you question all your life decisions. It is a hard method of programming, but likewise if you recognize how strange it that the training data that exists within this repository. Was created via a single recursive function that can duplicate itself while halting…
+
+There is a reason why I chose the GPL license that allows for the software as a service loophole. As some algorithms shouldn't be out in public display, but likewise treated like a trade secret. As in large part that is why I chose counting as the first data pack release. There is much more that can be accomplished in this methodology that falls outside of the P/NP paradigm. And training an AI on that data, would be a strange situation.
+
+So where is the profit in this? Solutions to problems. The real problem is whether we want to solve problems for good and compete in the wilderness to see who solves what first. Not to mention this system is designed in favor of composability and compounding with the resources thrown at it. As the next leg of this adventure is seeing how well this new technology integrates with AI.
+
+The original Unified Turing Machine was designed with only people in mind 6 years ago. But now that AI is on the scene. There is another product that I am working towards. So strange that we talk about AI, but a cyberdeck isn't on the table. I wonder what that would be, outside of some aesthetic cosplay laptop with its screen chopped in half.
+
+What would a network of cyberdecks connected be called? What would that experience of having an application/game/car be summoned into reality based on your ability to describe it. Or even just hitting random like you are creating a character in a video game? What a strange, different world that would be. Products that pop into existence, not with a company behind it, but merely on the basis that someone has a problem, and that product would solve it.
+
+As products, like inventions, are merely just solutions to problems.
