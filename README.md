@@ -37,10 +37,16 @@ This is the solution to the impossible halting problem. A pursuit of seeing such
 
 7. Finally we recursively repeat 5 & 6 as needed.
 
-In addition, you can utilize other feedback mechanisms to inform how a model should operate. And can be enhanced by future advancements in machine learning. What is important to acknowledge here is whether a model can create a plan/strategy/quality/principle that is capable of halting. As this is the solution the paper clipping problem of the entire universe in the scope of AI.
+*In addition, you can utilize other feedback mechanisms to inform how a model should operate. And can be enhanced by future advancements in machine learning. What is important to acknowledge here is whether a model can create a plan/strategy/quality/principle that is capable of halting. As this is the solution the paper clipping problem of the entire universe in the scope of AI.*
 
-There should be some decision within the graph that dictates the creation of paper clips, when we have enough paperclips. Or even that strange possibility of creating paperclips on demand due to some innovations in rapid manufacturing.
+## Postulate - If a Model fully embodies a Unified Turing Machine, then it should fully be capable of explaining its parts written as a Unified Turing Machine
+If this postulate holds true, not only do we have a mechanism to train specific capabilities into a Artificial Intelligence. Then likewise the Unified Turing Machine that exists in plain text would be just as capable as the black box model. And would be a form of generalizing beyond the current configuration of the Unified Turing Machine. This is the purpose of PURF, to create a path of safety while still being able to create Artificial Intelligence in the open.
 
+The implication would mean that models can fully be decomposed into code and correlated to verbose plain text logic. Meaning we would have a guaranteed method of providing safety within the scope of any AI deployment as a bedrock foundation.
+
+There should be some decision within the graph that dictates the creation of paper clips, when we have enough paperclips. Or even that strange possibility of creating paperclips on demand due to some innovations in rapid manufacturing. Would constitute the elimination of paper-clipping the universe an knowing so as a matter of a fact. Versus crossing your fingers via a "alignment process."
+
+## Metaphor for the Wise
 The other intention here is to demonstrate the possibility of a form of Artificial Intelligence based upon creation. Versus a chat bot. As on a personal note. I would rather spend my time building, then having conversations about building. If I were to have all the resources thrown at myself. My focus would be the creation of singing hammers.
 
 Where that hammer is just intelligent enough to strike the nail versus my thumb, and to remember how to hammer that nail without my help. So, I can trust it to do that job. That way I can hammer away and know that just outside of view, my work is being replicated in a way that I would do it. That way I can check my own work on the other side of that building. And reprimand myself and not the hammer.
