@@ -7,9 +7,13 @@ What is included in this repository is the raw training data that can be utilize
 
 This embodiment is designed in such a way that language is paired with hard code implementations of that language. As the question that has plagued me all my life is this: "What are the numbers for the letters, if know the letters for the numbers." Or to be more precise what would be the equivalent of mechanism in language if it mechanized some action in the world.
 
-This is a request for collaboration, partnership, and potential investment. If you see any marked improvement in your models based on this training data. Know that Stratimux is an effective means towards generating an unlimited amount of training data. The catch is that I've placed it under the GPLv3 license, as I couldn't bring myself see halting algorithms become some scares resource. That otherwise would prevent the paper clipping of the universe.
+This is a request for collaboration, partnership, and potential investment. If you see any marked improvement in your models based on this training data. Know that Stratimux is an effective means towards generating an unlimited amount of training data. The catch is that I've placed it under the GPLv3 license, as I couldn't bring myself see halting algorithms become some scares resource. That otherwise would prevent the paper clipping of the universe and be its form of paper-clipping.
 
-This is the solution to the impossible halting problem. A pursuit of seeing such as a problem to be solved.
+This is the solution to the impossible halting problem. A pursuit of seeing such as a problem to be solved. As the consequence of conceptual arrangements. Is that for each concept that comes into existence. A new set of variations arises as the concept can be composed with any other concept that did not formalize its creation.
+
+Meaning solving the halting problem is a continuous process due to something I would call the unlimited retreat. As despite the fear of an AI becoming Super Intelligent.
+
+The issue would remain that it too would likewise run into the same conundrum, experiencing its own unlimited retreat. Less it reduce the complexity of its own understanding to call it early as if it had solved everything. This being its own form of paper-clipping or the myth of algorithmic understanding.
 
 ## The Proposal
 
@@ -64,24 +68,30 @@ Then the method of reward/profit would be the utilization of such on a network. 
 
 As the original idea behind crypto is honestly fantastic one, but the main issue that I have with where it became. That it punted the idea of moving to some post scarcity state. The technology that exists in broad daylight within this repository when pushed to its fullest extent. Can transform anything given embodiment. ANYTHING.
 
-As the core of this technology is a "Universal Transformer," an algorithm that embraces error correction. Just like I am moving to some other plan after ramming my head into the wall to see if I can fine tune a model on the same day that all my work is supposed to be do after a months time.
+As the core of this technology is a "Universal Transformer," an algorithm that embraces error correction. The first mundane example of being a universal transformer, is the algorithm capable of rendering a User Interface.
 
-Mind you this past month I managed to take this universal transformer to create an entire application from scratch. What I started with was the ability to render some template html onto the browser statically. And now its fully reactive, generating pages dynamically, and writing the disk. Proving a recursively halting algorithm that is capable of being Turing Complete.
+The next step would be towards utilizing the same method to take complete control of the build process itself. But if it can render a site, build itself, deploy itself... When would this algorithm be able to download a car and assemble it in front of your face?
 
-Now I already see a route towards utilizing the same method to take complete control of the build process itself. When would this algorithm be able to download a car and assemble it in front of your face?
+As what is the real difference between a build context and one performed by a 3D printer? What if it was series of printers that network each part of the car. Their shipping, and finally their assembly?
 
-This is what I'll be doing with my time regardless of support. As the reality of this avenue even if no one realizes it. Is that due to this new class of algorithm existing in this copy left format. Is a green field of investment and creation.
+This is what I'll be doing with my time regardless of support. As the reality of this avenue even if no one realizes it. Is that due to this new class of provably unified algorithms, existing in this copy left format. Is a green field of investment and creation.
 
-A true frontier with only myself having struck a way through, but it is a true wilderness. With branch prediction hiding in the brush like a wild animal waiting to ruin your day. Having you question all your life decisions and your own intelligence. It is a hard method of programming, compounded by our generally good enough computers. But likewise if you recognize how strange it is that the training data that exists within this repository. Was created via a single recursive function that can duplicate itself while halting…
+A true frontier with only myself having struck a way through, but it is a true wilderness. With branch prediction hiding in the brush like a wild animal waiting to ruin your day. Having you question all your life decisions and your own intelligence.
 
-There is a reason why I chose the GPL license that allows for the software as a service loophole. As some algorithms shouldn't be out in public display, but likewise treated like a trade secret. As in large part that is why I chose counting as the first data pack release. There is much more that can be accomplished in this methodology that falls outside of the P/NP paradigm. And training an AI on that data, would be a strange situation.
+It is a hard method of programming, compounded by our generally good enough computers. But likewise if you recognize how strange it is that the training data that exists within this repository. Was created via a single recursive function that can duplicate itself while halting…
+
+There is a reason why I chose the GPL license that allows for the software as a service loophole. As some algorithms shouldn't be out in public display, but likewise treated like a trade secret. As in large part that is why I chose counting as the first data pack release. There is much more that can be accomplished in this methodology that falls outside of the P/NP paradigm. 
 
 So where is the profit in this? Solutions to problems. The real problem is whether we want to solve problems for good and compete in the wilderness to see who solves what first. Not to mention this system is designed in favor of composability and compounding with the resources thrown at it. As the next leg of this adventure is seeing how well this new technology integrates with AI and if it can fully embody a Unified Turing Machine. And if so, prove the postulate.
 
 As if the postulate is right, no longer would it be about finding the next training algorithm. But the logic of some decision making process, that accounts for an exponential set of factors. In plain text.
 
-The original Unified Turing Machine was designed with only people in mind 6 years ago. But now that AI is on the scene. There is another product that I am working towards. So strange that we talk about AI, but and genuine Cyberdeck isn't on the table. I wonder what that would be, outside of some aesthetic cosplay laptop with its screen chopped in half?
+The original Unified Turing Machine was designed with only people in mind 6 years ago. But now that AI is on the scene. There is another product that I am working towards. So strange that we talk about AI, but and genuine Cyberdeck isn't on the table. I wonder what that would be, outside of some aesthetic cosplay laptop with its screen chopped in half? Or a series of functions that can be triggered within a game world?
 
-What would a network of Cyberdecks connected be called? What would that experience of having an application/game/car be summoned into reality based on your ability to describe it. Or even just hitting random like you are creating a character in a video game? What a strange, different world that would be. Products that pop into existence, not with a company behind it, but merely on the basis that someone has a problem, and that product would solve it.
+What would a network of Cyberdecks connected be called? What would that experience of having an application/game/car be summoned into reality based on your ability to describe it. Or even just hitting random like you are creating a character in a video game? What a strange, different world that would be.
+
+Products that pop into existence, not with a company behind it, but merely on the basis that someone has a problem, and that product would solve it. And each person/organization that contributed to that product be rewarded by percentage of the material and labor required to create that product.
+
+Would bring a new meaning to enshrining something in gold. To have your solutions be rendered in a material that is truly finite and scarce.
 
 As products, like inventions, are merely just solutions to problems. Then a algorithm that can solve any problem, can create anything.
