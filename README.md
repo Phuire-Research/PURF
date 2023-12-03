@@ -46,10 +46,10 @@ The implication would mean that models can fully be decomposed into code and cor
 
 There should be some decision within the graph that dictates the creation of paper clips, when we have enough paperclips. Or even that strange possibility of creating paperclips on demand due to some innovations in rapid manufacturing. Would constitute the elimination of paper-clipping the universe an knowing so as a matter of a fact. Versus crossing your fingers via a "alignment process."
 
-## Metaphor for the Wise
+## Creating Singing Hammers
 The other intention here is to demonstrate the possibility of a form of Artificial Intelligence based upon creation. Versus a chat bot. As on a personal note. I would rather spend my time building, then having conversations about building. If I were to have all the resources thrown at myself. My focus would be the creation of singing hammers.
 
-Where that hammer is just intelligent enough to strike the nail versus my thumb, and to remember how to hammer that nail without my help. So, I can trust it to do that job. That way I can hammer away and know that just outside of view, my work is being replicated in a way that I would do it. That way I can check my own work on the other side of that building. And reprimand myself and not the hammer.
+"Where that hammer is just intelligent enough to strike the nail versus my thumb, and to remember how to hammer that nail without my help. So, I can trust it to do that job. That way I can hammer away and know that just outside of view, my work is being replicated in a way that I would do it. That way I can check my own work on the other side of that building. And reprimand myself and not the hammer."
 
 The strange aspect here with the metaphor above. Is how this would translate to others, including Artificial Intelligence. What is being described is the creation of safe trustable mechanisms informed by all intelligence. To create a bed rock foundation of automation.
 
