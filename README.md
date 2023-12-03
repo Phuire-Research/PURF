@@ -57,7 +57,7 @@ Currently this would already be seen as a given with Open-Source AI. The contras
 
 That there would be some carry over within graph network of universal functions, created via a brute force methodology. As noted in this ["GPT is becoming a Turing Machine"](https://arxiv.org/pdf/2303.14310.pdf), you can prompt GPT to behave in a Turing Complete manner. Then likewise it would be highly beneficial to ensure that we take advantage of this approach. To likewise be provably terminating or halting complete by scalar testable value.
 
-## How could there be any profit in this?
+## Where is the profit in this?
 If you are looking at the GPL license in horror. It should be a good time that where this becomes an advantage, specifically in the realm of crypto. As the gist of crypto is that everything by default on block chain is made public. And since you are supposed to release your source code under this license, what better way to stake it to the world? As if there was some organized effort towards the study of this new paradigm of algorithms that can provably halt.
 
 Then the method of reward/profit would be the utilization of such on a network. Therefore, once hosted on some block chain, and people start using it, becomes the avenue of reward via a simple fee assigned to network utilization.
