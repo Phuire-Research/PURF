@@ -74,6 +74,16 @@ The next step would be towards utilizing the same method to take complete contro
 
 As what is the real difference between a build context and one performed by a 3D printer? What if it was series of printers that network each part of the car. Their shipping, and finally their assembly?
 
+## What issue is being solved?
+The main the problem currently this late into what should be a true wild west, thanks to the emergence of Artificial Intelligence. Is that the advantage goes to those with the resources to train a procure data. Not the creation of a product itself. In fact, by releasing our source code onto the internet. If our data happens to be scrapped within these models. Then our data, if it is truly valuable would represented in an output, or inform the decision making process to receive an output in the first place.
+
+As the reality of what Artificial Intelligence allows is the creation of any good on demand. That these goods, can be sourced from any number of data points. Why not have a marketplace set up, so that those that contribute to any act of creation via this generalizing effect of AI. Likewise reward those that contributed?
+
+This is also the reason why Stratimux formalizes itself via composing and unifying concepts together. What is not immediately obvious when examining that software, is what a initialization strategy equates to. As if we were to generalize that away from software, but the creation of some good. Then initialization describes the creation of that good. Just preparing it to be used.
+
+## Releasing via GPLv3
+What remains to be proven with this data, is whether it is truly transformative in nature. And what is currently called a training process, can likewise be considered a method of compilation. Or taking what is a logical reasoning system and training a model how to utilize that system of logic.
+
 This is what I'll be doing with my time regardless of support. As the reality of this avenue even if no one realizes it. Is that due to this new class of provably unified algorithms, existing in this copy left format. Is a green field of investment and creation.
 
 A true frontier with only myself having struck a way through, but it is a true wilderness. With branch prediction hiding in the brush like a wild animal waiting to ruin your day. Having you question all your life decisions and your own intelligence.
@@ -88,6 +98,7 @@ As if the postulate is right, no longer would it be about finding the next train
 
 The original Unified Turing Machine was designed with only people in mind 6 years ago. But now that AI is on the scene. There is another product that I am working towards. So strange that we talk about AI, but and genuine Cyberdeck isn't on the table. I wonder what that would be, outside of some aesthetic cosplay laptop with its screen chopped in half? Or a series of functions that can be triggered within a game world?
 
+## Discovering the Cyberdeck
 What would a network of Cyberdecks connected be called? What would that experience of having an application/game/car be summoned into reality based on your ability to describe it. Or even just hitting random like you are creating a character in a video game? What a strange, different world that would be.
 
 Products that pop into existence, not with a company behind it, but merely on the basis that someone has a problem, and that product would solve it. And each person/organization that contributed to that product be rewarded by percentage of the material and labor required to create that product.
@@ -95,3 +106,23 @@ Products that pop into existence, not with a company behind it, but merely on th
 Would bring a new meaning to enshrining something in gold. To have your solutions be rendered in a material that is truly finite and scarce.
 
 As products, like inventions, are merely just solutions to problems. Then a algorithm that can solve any problem, can create anything.
+
+There is a different perspective that I would like to introduce that encompasses what a Cyberdeck would actually be as a practical product. It all started with Ms. Pacman.
+
+## Ms. Pacman
+Once upon a time, before I was born and in the early days when software was a new fangled thing that was not well defined as intellectual property. There existed a team of individuals at MIT that were making their own version of Pacman that were not part of Atari. They were instead students at MIT, creating software enhancements to their favorite games.
+
+And just before they were getting ready to release this new version of Pacman as a independent company. Atari bought them out, and instead released Ms. Pacman as an Atari product. What is interesting, is that at the time they could have released Ms. Pacman under fair use, and have it be their own product.
+
+Instead what happened, is that Atari moved to change copyright law, so that software enhancements. Became game modifications, as making modifications to software would constitute a violation of intellectual property.
+
+So as a point of divergence there was a possibility that we as software engineers. Would be releasing software, not just as products that need to break ground. And find that new audience that is ready to try something new. But instead, we could release our own enhancements to the software we utilized ever day. And this would still be a form of Capitalism, just a different branch of evolution.
+
+## Cyberspace
+What is being created via PURF, Stratimux, and likewise the release of a new Cyberdeck product. Is a system that is designed for "Software Enhancement." Or what we would now call, Software Modding. Notice how that isn't a concept we utilize. We have game modding, thanks to a select few companies that due not go after everyone that modifies their games, but not in software.
+
+So this green field of creation and investment. Would be one where are are not competing directly. Instead we would be creating the best possible software for each of us to utilize. And if we do not like how it operates, we can release our own software enhancement. Likewise these software enhancements could be layered, or even unified together to allow for their nuances to operate with conflict.
+
+This will become truly strange, once all of this is part of a AI that is integrating all of this data. To be, an aggregate of all concept, and software enhancements. Meaning you could complain about how a feature is operating. And have that feature change, while benefiting the incoming source of those changes. As if you do not get back what you were expecting, then you could implement that change yourself and be rewarding if others start using it.
+
+As the AI that would exist within the core of this system. Would not be something that is based upon dialog, a business structure, or even the software itself. But the instead an environment, one that is intelligent. This would be what we would call Cyberspace, or an intelligent internet based upon creation. Not to mention all other AI that will be exploding into the scene during the coming years.
