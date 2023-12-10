@@ -13,7 +13,7 @@ This is made possible thanks to the Unified Turing Machine that solves impossibl
 
 What is not addressed in the scope of general understanding, is the consequence of conceptual arrangements. Not only can arrangements of concepts out number the total amount of atoms in the universe. Is further compounded for each concept that comes into existence, a new set of possible variations emerges. As that concept can be composed with any other concept, including itself. If combinations of conceptual sets out number the total amount of atoms in the universe, how can you quantify that the arrangement is being seen for the first time?
 
-Meaning solving the halting problem is a continuous process due to something called the "Unlimited Retreat of Conceptual Exploration." As despite the fear of an AI becoming "Super Intelligent." The issue would remain that it too would likewise run into the same conundrum. The only true work around to this is it reduce the complexity of its own understanding, in order to deem that it has solved everything. This being its own form of paper-clipping or the myth of algorithmic understanding, that existence is solved to be solved versus explored.
+Meaning solving the halting problem is a continuous process due to something called the "Unlimited Retreat of Conceptual Exploration." As despite the fear of an AI becoming "Super Intelligent." The issue would remain that it too would likewise run into the same conundrum. Where the only true work around to this, is to reduce the complexity of its own understanding, in order to deem that it has solved everything. This being its own form of paper-clipping or the myth of algorithmic understanding, that existence is solved to be solved versus explored.
 
 ## The Proposal
 
