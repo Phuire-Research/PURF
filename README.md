@@ -30,7 +30,7 @@ Meaning defining a computation bounds that is halting complete, is a continuous 
 
 3. Next we are formalizing the symbol selection to a grouping of functions called qualities. That are defined in plain text and utilize deterministic logic to inform the next decision within a graph calculation. Where a graph calculation is a composed series of branching logic that is optimizing towards the shortest path of successful return.
 
-  This approach affords error correction during run time but is likewise where this pattern of design becomes exponentially complex proportionate to the graph's size and the potential symbol load.
+  This approach affords error correction during run time but is likewise where this pattern of design becomes exponentially complex proportionate to the graph's size and the potential symbol load(an additional compounding combinatory factor).
 
 4. We then utilize the plain text formalizations of Unified Turing Machines and their qualities as training data to inform the obfuscated structure of such a machine within a Neural Network. This is where P comes into the equation.
 
