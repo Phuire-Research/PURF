@@ -1,6 +1,6 @@
 # PURF
 *"Safe Recursive Improvement of Artificial Intelligence"*  
-**PURF**: Provably Unified Recursive Fine-Tuning(/+)Feedback  
+**PURF**: Provably Unified Recursive Feedback  
 The advent of the Conceptual Deck and Conceptual Space  
 Or the advent of the Cyberdeck and Cyberspace  
 Represents a paradigm shift and technological unlock enabling new class of Computation that enables a "Fast Strong Method of Computation."  
