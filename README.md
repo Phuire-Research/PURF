@@ -103,8 +103,8 @@ The original Unified Turing Machine was designed with only people in mind in 201
 
 The "Cyberdeck" or Conceptual Deck turned out to truly be a new Class of Computation that is merely an evolution of what came before it. This is a technology unlock and paradigm shift. Similar to the advent of germ theory, by divorcing logic from philosophy and reasserting it the the central stage. As the method of unifying all abstractions, as Logic bore all Abstractions and is the Language of the Universe.
 
-## Discovering the Cyberdeck
-What would a network of Cyberdecks connected be called? What would that experience of having an application/game/car be summoned into reality based on your ability to describe it. Or even just hitting random like you are creating a character in a video game? What a strange, different world that would be.
+## Discovering the Conceptual Deck (Cyberdeck)
+What would a network of Conceptual Deck connected be called? What would that experience of having an application/game/car be summoned into reality based on your ability to describe it. Or even just hitting random like you are creating a character in a video game? What a strange, different world that would be.
 
 Products that pop into existence, not with a company behind it, but merely on the basis that someone has a problem, and that product would solve it. And each person/organization that contributed to that product be rewarded by percentage of the material and labor required to create that product.
 
@@ -112,7 +112,7 @@ Would bring a new meaning to enshrining something in gold. To have your solution
 
 As products, like inventions, are merely just solutions to problems. Then an algorithm that can solve/describe any problem, can create anything.
 
-There is a different perspective that I would like to introduce that encompasses what a Cyberdeck would actually be as a practical product. It all started with Ms. Pacman.
+There is a different perspective that I would like to introduce that encompasses what a Conceptual Deck would actually be as a practical product. It all started with Ms. Pacman.
 
 ## [Ms. Pacman](https://venturebeat.com/games/how-a-bunch-of-mit-dropouts-created-ms-pac-man/)
 Once upon a time, before I was born and in the early days when software was a new fangled thing that was not the well defined intellectual property we have today. There existed a team of individuals at MIT that were making their own version of Pacman that were not part of Atari. They were instead students at MIT, creating software enhancements to their favorite games.
@@ -127,13 +127,13 @@ So as a point of divergence there was a possibility that we as software engineer
 
 When framed with Branch Prediction, the unfortunate side effect of this decision likewise meant that there would be no market incentive to find the quickest path of equation. Meaning all software in this taxonomy would have an automatic inefficiency built in. That would otherwise reduce the total cost of computation and likewise the accuracy of our software. The mythical "Strong Fast Computation System."
 
-## Cyberspace
-What is being created via PURF, Stratimux, and likewise the eventual release of a new Cyberdeck application. Would be a system that is designed specifically for "Software Enhancement." Or what we would now call it as, software modding. Notice how that isn't a concept we readily utilize. We have game modding thanks to a select few companies that do not take legal action against those modify their games. But searching for software modding is a surefire way to acquire malware as you dive into the seediest of websites.
+## Towards Conceptual Space (Cyberspace)
+What is being created via PURF, Stratimux, and likewise the eventual release of a new Conceptual Deck Computer branded as Huirth. Would be a system that is designed specifically for "Software Enhancement." Or what we would now call it as, software modding. Notice how that isn't a concept we readily utilize. We have game modding thanks to a select few companies that do not take legal action against those modify their games. But searching for software modding is a surefire way to acquire malware as you dive into the seediest of websites.
 
 So this green field of creation and investment. Would be one where are are not be competing directly. Instead we would be creating the best possible software for each of us to utilize. And if we do not like how it operates, we can release our own software enhancement. Likewise these software enhancements could be layered, or even unified together to allow for their nuances to operate without conflict.
 
 What I did not have access to in 2018, was the AI that this approach was designed for. That would embody the aggregate of all concepts, software, and enhancements. That would create a system where you could complain about how a feature is operating. And have that feature change, while benefiting the incoming source of those changes. And if you get back some subpar feature, then you could implement that change yourself, and be rewarding if others start using it.
 
-As the AI that would exist within the core of this system. Would not be something that is based upon dialog, a business structure, or even just the software itself. But instead would constitute an environment, and one that is intelligent. This what could genuinely be called Cyberspace, or an intelligent internet that would be reactive towards the intelligence it contains. Versus existing as an active entity that must always exist.
+As the AI that would exist within the core of this system. Would not be something that is based upon dialog, a business structure, or even just the software itself. But instead would constitute an environment, and one that is intelligent. This what could genuinely be called Conceptual Space, or an intelligent internet that would be reactive towards the intelligence it contains. Versus existing as an active entity that must always exist.
 
 **Spoilers beyond this point.**
